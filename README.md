@@ -1,7 +1,9 @@
 # Hi there i am Alessio Blascovich
 
 A basic IT bachelor degree student in UniTN.  
-<img src="https://github.com/ElBlasco69/ElBlasco69/blob/main/images/not_trasparent_logo.png"  width="150" height="60">
+<img src="https://github.com/ElBlasco69/ElBlasco69/blob/main/images/not_trasparent_logo.png"  width="150" height="60">  
+They say that the second year of university is the hardest.😑  
+🏳️‍🌈
 <!--
 **ElBlasco69/ElBlasco69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
