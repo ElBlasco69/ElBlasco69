@@ -1,4 +1,4 @@
-#Hi there i am Alessio Blascovich
+# Hi there i am Alessio Blascovich
 
 A basic IT bachelor degree student in UniTN ![UniTN logo](https://github.com/ElBlasco69/ElBlasco69/blob/main/images/not_trasparent_logo.png)
 <!--
