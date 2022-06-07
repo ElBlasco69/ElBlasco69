@@ -4,6 +4,7 @@ A basic second year bachelor degree student in UniTN.
 <img src="https://github.com/ElBlasco69/ElBlasco69/blob/main/images/not_trasparent_logo.png"  width="150" height="60">  
 They say that the second year of university is the hardest.😑  
 My main interest is to learn new things such....i don't know , really i am interenst in almost everything.  
+At the beginnig of 2022 i decided to buy an old thinkpad where i installed linux and obviously i felt in love with it.   
 🏳️‍🌈  
 P.S. i use arch btw
 <!--
