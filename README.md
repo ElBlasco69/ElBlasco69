@@ -1,6 +1,6 @@
 # Hi there i am Alessio Blascovich
 
-A basic IT bachelor degree student in UniTN ![UniTN logo](https://github.com/ElBlasco69/ElBlasco69/blob/main/images/not_trasparent_logo.png){:height="36px" width="36px"}.
+A basic IT bachelor degree student in UniTN ![UniTN logo](https://github.com/ElBlasco69/ElBlasco69/blob/main/images/not_trasparent_logo.png){height="36px" width="36px"}
 <!--
 **ElBlasco69/ElBlasco69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
