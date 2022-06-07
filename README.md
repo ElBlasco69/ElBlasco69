@@ -1,5 +1,6 @@
-### Hi there 👋
+#Hi there i am Alessio Blascovich
 
+A basic IT bachelor degree student in UniTN [UniTN logo]{https://it.cleanpng.com/png-if4csq/}
 <!--
 **ElBlasco69/ElBlasco69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
